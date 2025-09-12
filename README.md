@@ -1,4 +1,5 @@
-## Hi there 👋
+## Hi there 👋 
+I’m Kim Minjeong, a Korean learner and developer who enjoys exploring coding, problem-solving, and creative projects.
 
 <!--
 **milin0808/milin0808** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -12,5 +13,5 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: I am a heavy sleeper ;)
 -->
